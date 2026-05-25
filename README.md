@@ -151,14 +151,8 @@ CodeAlpha_Sales_Analytics_Dashboard/
 ![Alt text](https://github.com/dinutanwar/CodeAlpha_Sales_Analytics_Dashboard/blob/4ff76b9a31abf851cfc310ccf9b1a804f576d7c7/image/Screenshot%202026-05-25%20195655.png)
 ![Alt text](https://github.com/dinutanwar/CodeAlpha_Sales_Analytics_Dashboard/blob/4ff76b9a31abf851cfc310ccf9b1a804f576d7c7/image/Screenshot%202026-05-25%20195706.png)
 
-## 📊 Sales Analytics Dashboard
 
-(Add your dashboard screenshots here)
 
-```markdown
-![Dashboard Preview](images/dashboard1.png)
-![Dashboard Preview](images/dashboard2.png)
-```
 
 ---
 
